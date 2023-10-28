@@ -14,9 +14,6 @@ export default function Home() {
         <CardList />
         <Menu />
       </div>
-      <div className={styles.}></div>
-      <div className={styles.}></div>
-    
     </div>
   );
 }
